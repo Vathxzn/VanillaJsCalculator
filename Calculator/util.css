@@ -1,0 +1,23 @@
+.text-middle{
+    text-align: center;
+ }
+ .container{
+   text-align: center;
+ }
+ .background-black{
+    background: black;
+   }
+ .max-auto{
+   margin: auto;
+ }
+ 
+ .flex
+   display:flex
+ }
+   
+ .flex-column{
+   flex-direction: column;
+ }
+ .align-button{
+   align-button: center;
+ }
